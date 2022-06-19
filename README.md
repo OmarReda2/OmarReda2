@@ -2,4 +2,4 @@
 - 👀 I’m interested in software, AI, machine learning and web development.
 - 🌱 I’m currently learning web development, AI and machine learning.
 - 💞️ I’m looking to collaborate on AI, machine learning .Net and Angular web projects 
-- 📫 you can reach me on [LinkedIn](linkedin.com/in/omar-reda-b89025233)
+- 📫 you can reach me on my [gmail](omarreddaelsayied@gmail.com) or [LinkedIn](linkedin.com/in/omar-reda-b89025233)
