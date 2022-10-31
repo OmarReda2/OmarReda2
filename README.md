@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer developer from Egypt</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarreda2" alt="omarreda2" /></a> </p>
+
 
 - 👀 I’m interested in **AI, machine learning and web development.**
 
@@ -11,7 +11,7 @@
 
 - 💞️ I’m looking to collaborate on **AI, machine learning .Net and Angular web projects**
 
-- 📫 you can reach me on my Gmail **omarreddaelsayied@gmail.com**
+- 📫 you can reach me on my Gmail **omarreddaelsayied@gmail.com** or LinkedIn **linkedin.com/in/omar-reda-b89025233**
 
 
 
