@@ -8,7 +8,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+
  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
  
