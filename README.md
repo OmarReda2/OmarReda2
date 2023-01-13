@@ -13,7 +13,7 @@
 
 - 📫 you can reach me on my Gmail **omarreddaelsayied@gmail.com** or [LinkedIn](https://linkedin.com/in/OmarReda01) 
 
-- 📄 Know about my experiences through my [CV](https://drive.google.com/file/d/1mvnFvet-3AN4xWF27K2AN4qpaqc0uX8G/view?usp=share_link)
+- 📄 Know about my experiences through my [CV](https://drive.google.com/file/d/1AhhvgPt3p32orxh_daWEfi6T67OD4Qvq/view?usp=share_link)
 
 
 
