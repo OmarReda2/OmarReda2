@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **web development, AI and machine learning.**
 
-- 💞️ I’m looking to collaborate on **AI, machine learning .Net and Angular web projects**
+- 💞️ I’m looking to collaborate on **AI, machine learning web projects**
 
 - 📫 you can reach me on my Gmail **omarreddaelsayied@gmail.com** or [LinkedIn](https://linkedin.com/in/OmarReda01) 
 
