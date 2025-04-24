@@ -7,9 +7,7 @@
 
 - 👀 I’m interested in **AI, machine learning and web development.**
 
-- 🌱 I’m currently learning **web development, AI and machine learning.**
-
-- 💞️ I’m looking to collaborate on **AI, machine learning web projects**
+- 🌱 I’m looking to collaborate on **AI, machine learning web projects**
 
 - 📫 you can reach me on my Gmail **omarreddaelsayied@gmail.com** or [LinkedIn](https://linkedin.com/in/OmarReda01) 
 
